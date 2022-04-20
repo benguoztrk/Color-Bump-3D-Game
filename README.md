@@ -3,7 +3,7 @@
 This is the clone of Color Bump 3D hyper casual mobile game that I make. 
 
 It has 7 levels.
-You can check out playeble WebGL build link: https://play.unity.com/mg/other/webgl-builds-182912
+You can check out playable WebGL build link: https://play.unity.com/mg/other/webgl-builds-182912
 
 Link to original game's Google Play Store page: https://play.google.com/store/apps/details?id=com.colorup.game&hl=tr&gl=US
 
