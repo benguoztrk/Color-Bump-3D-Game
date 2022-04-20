@@ -4,7 +4,7 @@ This is the clone of Color Bump 3D hyper casual mobile game that I make.
 
 It has 7 levels.
 
- Link to original games' Google Play Store page: https://play.google.com/store/apps/details?id=com.colorup.game&hl=tr&gl=US
+ Link to original game's Google Play Store page: https://play.google.com/store/apps/details?id=com.colorup.game&hl=tr&gl=US
  
  Here is the first 2 level and game over screen of the game.
  ![colorbump1](https://user-images.githubusercontent.com/32210921/164293313-38cb2142-0acf-41a7-bb91-9f297dfda2fe.jpeg)
