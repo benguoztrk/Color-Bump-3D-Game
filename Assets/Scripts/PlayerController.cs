@@ -42,7 +42,8 @@ public class PlayerController : MonoBehaviour
 
         if (!canMove && gameOver)
         {
-            GameManager.instance.GameOver();
+            StartCoroutine(GameoverCoroutine());
+            //GameManager.instance.GameOver();
 
             if (Input.GetMouseButtonDown(0))
             {
@@ -147,6 +148,11 @@ public class PlayerController : MonoBehaviour
         
     }
 
+    IEnumerator GameoverCoroutine()
+    {
+        yield return new WaitForSeconds(0.2f);
+        GameManager.instance.GameOver();
+    }
     void OnCollisionEnter(Collision target)
     {
         if (target.gameObject.tag == "Enemy")
