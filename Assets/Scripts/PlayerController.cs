@@ -22,9 +22,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private GameObject breakablePlayer;
 
+
     void Awake()
     {
         myRigidBody = GetComponent<Rigidbody>();
+        
     }
 
 
@@ -40,9 +42,13 @@ public class PlayerController : MonoBehaviour
 
         if (!canMove && gameOver)
         {
+            GameManager.instance.GameOver();
+
             if (Input.GetMouseButtonDown(0))
             {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+                GameManager.instance.RestartGame();
+               // GameManager.instance.GameOverText("Tap to Restart");
                 Time.timeScale = 1;
                 Time.fixedDeltaTime = Time.timeScale * 0.02f;
             }
