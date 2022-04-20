@@ -1,4 +1,4 @@
-# ColorBump-
+# Color Bump
 
 This is the clone of Color Bump 3D hyper casual mobile game that I make. 
 
