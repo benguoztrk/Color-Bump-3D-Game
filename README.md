@@ -1,6 +1,6 @@
 # Color Bump
 
-This is the clone of Color Bump 3D hyper casual mobile game that I make. 
+This is the clone of Color Bump 3D hyper casual mobile game that I develop using Unity Engine. 
 
 It has 7 levels.
 You can check out my playable WebGL build link: https://play.unity.com/mg/other/webgl-builds-182912
