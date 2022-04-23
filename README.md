@@ -9,11 +9,16 @@ Link to original game's Google Play Store page: https://play.google.com/store/ap
 
  Here is the first 2 level and game over screen of the game:
  
- ![colorbump1](https://user-images.githubusercontent.com/32210921/164293313-38cb2142-0acf-41a7-bb91-9f297dfda2fe.jpeg)
- 
-![colorbump2](https://user-images.githubusercontent.com/32210921/164293471-40905734-c3c7-4d93-a6de-d6087860da8f.jpeg)
 
-![colorbumpGameover](https://user-images.githubusercontent.com/32210921/164293490-6ef75318-99f6-4aea-ad9d-31957d76b53f.jpeg)
+![image](https://user-images.githubusercontent.com/32210921/164942714-a0f9c2d9-a76f-4f50-b624-b670995b0322.png)
+
+![image](https://user-images.githubusercontent.com/32210921/164942768-2777904b-7031-4c47-96bb-67b973850ca7.png)
+
+![image](https://user-images.githubusercontent.com/32210921/164942854-e2535642-0ef4-472c-855a-a0dab4176f26.png)
+
+![image](https://user-images.githubusercontent.com/32210921/164942799-75a603c8-d192-4255-8894-356901a8d8ef.png)
+
+
 
 
 
